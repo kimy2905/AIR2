@@ -18,8 +18,6 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [ArGIS JavaScript Tutorial-ArcGIS](https://developers.arcgis.com/documentation/mapping-and-location-services/tutorials/)
 - [Air Quality Open Data Platform](https://aqicn.org/data-platform/token-confirm/273bf6ec-fef6-4f7a-a319-e349a676b7d2)
 - [JavaScript Documentation] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
